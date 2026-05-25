@@ -1,0 +1,5 @@
+names = ("Zi Yi", "Marcus", "Yoong Neng", "Marc")
+print(names)
+print(names[0])
+print(names[3])
+print(names[2:4])

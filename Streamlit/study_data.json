@@ -1,0 +1,56 @@
+{
+    "subjects": [
+        {
+            "name": "Physics",
+            "theme": "Mint"
+        },
+        {
+            "name": "Maths",
+            "theme": "Coral"
+        },
+        {
+            "name": "Advanced Maths",
+            "theme": "Pink"
+        },
+        {
+            "name": "Biology",
+            "theme": "Gold"
+        },
+        {
+            "name": "English",
+            "theme": "Blue"
+        },
+        {
+            "name": "Chemistry",
+            "theme": "Lavender"
+        }
+    ],
+    "tasks": [
+        {
+            "name": "Past Year Papers",
+            "subject": "Physics",
+            "deadline": "2026-05-28",
+            "complete": false,
+            "priority": "Medium",
+            "points": 10
+        }
+    ],
+    "notes": "Mufy exam gon be a piece of cake!!!",
+    "last_study_date": "2026-05-28",
+    "streak": 1,
+    "exam_date": "2026-06-23",
+    "focus_sessions": 0,
+    "total_focus_minutes": 0,
+    "daily_goal": 3,
+    "mood_log": [
+        {
+            "date": "2026-05-28",
+            "mood": "Tired"
+        },
+        {
+            "date": "2026-05-28",
+            "mood": "Locked In"
+        }
+    ],
+    "completed_quests": []
+}
